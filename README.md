@@ -16,7 +16,7 @@ and we're building Serious.ly
 
 
 
-###What's Serious.ly🤔
+<h3> What's Serious.ly🤔 </h3>
 
 It's a humorous quote generator app powered by Chuck Norris API
 
