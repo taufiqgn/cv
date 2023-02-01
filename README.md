@@ -12,6 +12,8 @@ We're a team from Chingu Voyage 42 (Toucans 9)
 and we're building Serious.ly
   
  ![Build Status](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml/badge.svg)
+  
+  [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 <h2> What's Serious.ly🤔 </h2>
