@@ -36,11 +36,11 @@ The app will generate a funny quotes for you
 
 <h2>Meet The Team from Toucans 9 👥 </h2>
 
-- Product Owner [@Taufiq](https://linkedin.com/in/taufiqg target="_blank")
 - Front End Engineer 1 [@Yana](https://github.com/Yasya23)
 - Front End Engineer 2 [@Andrei](https://github.com/andriciab)
 - Front End Engineer 3 [@Toki](https://github.com/Toukoms)
 - Front End Engineer 4 [@Noman](https://github.com/NomanBinBasheer)
+- Product Owner [@Taufiq](https://linkedin.com/in/taufiqg)
 
 
 
