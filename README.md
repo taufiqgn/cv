@@ -12,28 +12,28 @@ We're a team from Chingu Voyage 42 (Toucans 9)
 and we're building Serious.ly
 
 
-<h3> What's Serious.ly🤔 </h3>
+<h2> What's Serious.ly🤔 </h2>
 
 It's a humorous quote generator app powered by Chuck Norris API
 
 
 
-###What Does It Do🤔
+<h2> What Does It Do🤔 </h2>
 
 The app will generate a funny quotes for you
 
 
 
-###What Feature Does it Have
+<h2> What Feature Does it Have </h2>
 
-####Dark Mode
-####Responsive on Any Device
-####Generate More Fun
+<h3> Dark Mode </h3>
+<h3> Responsive on Any Device </h3>
+<h3> Generate More Fun </h3>
 #Insert Generating Quotes GIF
 
 
 
-###Meet The Team from Toucans 9
+<h2>Meet The Team from Toucans 9 </h2>
 
 Product Owner
 
@@ -47,7 +47,7 @@ Front End Engineer 4
 
 
 
-###Technology Stack
+<h3>Technology Stack</h3>
 
 HTML CSS JS Figma Jira Tailwind
 
