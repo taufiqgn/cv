@@ -5,13 +5,11 @@
 </p>
 
 <p align="center">
-<a 
 
-<H1>👋Hello</h1>
-##We're a team from Chingu Voyage 42 (Toucans 9) 
+<H1> 👋Hello </h1>
+We're a team from Chingu Voyage 42 (Toucans 9) 
 
 and we're building Serious.ly
-a>
 
 
 <h3> What's Serious.ly🤔 </h3>
