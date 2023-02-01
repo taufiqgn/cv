@@ -37,7 +37,7 @@ The app will generate a funny quotes for you
 
 <h2>Meet The Team from Toucans 9 👥 </h2>
 
-- Product Owner @Taufiq
+- Product Owner [@Taufiq](https://linkedin.com/in/taufiqg)
 - Front End Engineer 1 @Yana
 - Front End Engineer 2 @Andrei
 - Front End Engineer 3 @Toki
