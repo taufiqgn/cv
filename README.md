@@ -13,6 +13,8 @@ and we're building Serious.ly
   
  [![Build Status](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml/badge.svg)](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
+
 
 <h2> What's Serious.ly🤔 </h2>
 
@@ -37,15 +39,11 @@ The app will generate a funny quotes for you
 
 <h2>Meet The Team from Toucans 9 👥 </h2>
 
-Product Owner
-
-Front End Engineer 1
-
-Front End Engineer 2
-
-Front End Engineer 3
-
-Front End Engineer 4
+Product Owner @Taufiq
+Front End Engineer 1 @Yana
+Front End Engineer 2 @Andrei
+Front End Engineer 3 @Toki
+Front End Engineer 4 @Noman
 
 
 
