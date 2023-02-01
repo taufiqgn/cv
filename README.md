@@ -7,36 +7,37 @@ My online CV created with HTML and GitHub Pages
 </p>
 
 <p align="center">
-<a 👋Hello
+<a 
 
-We're a team from Chingu Voyage 42 (Toucans 9) 
+###👋Hello
+##We're a team from Chingu Voyage 42 (Toucans 9) 
 
 and we're building Serious.ly
 
 
 
-What's Serious.ly🤔
+###What's Serious.ly🤔
 
 It's a humorous quote generator app powered by Chuck Norris API
 
 
 
-What Does It Do🤔
+###What Does It Do🤔
 
 The app will generate a funny quotes for you
 
 
 
-What Feature Does it Have
+###What Feature Does it Have
 
-Dark Mode
-Responsive on Any Device
-Generate More Fun
+####Dark Mode
+####Responsive on Any Device
+####Generate More Fun
 #Insert Generating Quotes GIF
 
 
 
-Meet The Team from Toucans 9
+###Meet The Team from Toucans 9
 
 Product Owner
 
@@ -50,7 +51,7 @@ Front End Engineer 4
 
 
 
-Technology Stack
+###Technology Stack
 
 HTML CSS JS Figma Jira Tailwind
 
