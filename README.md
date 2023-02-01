@@ -30,7 +30,7 @@ The app will generate a funny quotes for you
 
 <h3> 🌙 Dark Mode </h3>
 <h3> 📱 Responsive on Any Device </h3>
-<h3> 🔽 Generate More Fun </h3>
+<h3> 🔽 Generate More Fun With Animation </h3>
 #Insert Generating Quotes GIF
 
 
