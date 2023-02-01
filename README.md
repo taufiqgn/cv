@@ -10,6 +10,8 @@
 We're a team from Chingu Voyage 42 (Toucans 9) 
 
 and we're building Serious.ly
+  
+ [![Build Status](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml/badge.svg)](https://github.com/transitive-bullshit/nextjs-notion-starter-kit/actions/workflows/build.yml) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 
 <h2> What's Serious.ly🤔 </h2>
