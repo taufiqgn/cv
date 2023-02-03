@@ -4,8 +4,7 @@
   </a>
 </p>
 
-<img alt src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
-<img alt src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg>
+<img src="https://chingu-voyages.github.io/v42-toucans-team-09/img/programes/programes-2x.webp" width="100" height=100"/>
 
 <p align="center">
 
