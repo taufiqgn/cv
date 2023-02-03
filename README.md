@@ -5,6 +5,7 @@
 </p>
 
 <img alt src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg">
+<img alt src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg>
 
 <p align="center">
 
